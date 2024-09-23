@@ -3,7 +3,7 @@
 
 ## Task
 
-* Below is the Python script to automate the SOAR tasks
+* Below is the Python and PowerShell script to automate the SOAR tasks
 * Replace the "api_key" with your own key
 * URL is the url of the open reputation check url (abuseipdb, VirusTotal, etc.)
 
